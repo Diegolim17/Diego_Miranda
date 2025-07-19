@@ -1,7 +1,7 @@
 ### Hello! my name is Diego
 
-- 🏢 I work as an engineering internship
-- 📚 Student C#
+- 🏢 I work as an Intern engineering
+- 📚 I'm currently studying C#
 - 📤 my email: diegolimma17@gmail.com
 
 #### 🤖 Languages and technology
