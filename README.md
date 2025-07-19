@@ -1,6 +1,6 @@
 ### Hello! my name is Diego
 
-- 🏢 I work as an engineering intern
+- 🏢 I work as an engineering internship
 - 📚 Student C#
 - 📤 my email: diegolimma17@gmail.com
 
